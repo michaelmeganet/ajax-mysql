@@ -1,7 +1,7 @@
 <?php
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "xxxxxx";
+$dbpass = "5105458";
 $dbname = "samples";
 	
 //Connect to MySQL Server

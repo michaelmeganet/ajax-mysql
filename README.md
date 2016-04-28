@@ -13,3 +13,4 @@ This example is putting ajax directory under root, /ajax
 
 which mean you have to access the client page by visiting http://localhost/ajax/ajax.html
 
+refer to http://www.tizag.com/ajaxTutorial/ajax-javascript.php
